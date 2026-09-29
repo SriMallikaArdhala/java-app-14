@@ -1,6 +1,6 @@
 package mathematics.threedshape;
 
-import mathematics.threedshape.BasicThreedShape;
+import mathematics.shape.BasicThreedShape;
 
 public class Cube extends BasicThreedShape {
     public Cube() {

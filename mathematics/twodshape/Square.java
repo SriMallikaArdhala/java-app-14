@@ -1,6 +1,6 @@
 package mathematics.twodshape;
 
-import mathematics.twodshape.BasicTwodShape;
+import mathematics.shape.BasicTwodShape;
 
 public class Square extends BasicTwodShape {
 
